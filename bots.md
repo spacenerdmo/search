@@ -4,11 +4,9 @@ If you have a bot you'd like added to this list just let @33MHz know or submit a
 
 Username|Description
 -|-
-@pnutboy
-@monkeystew_matrix
-@towerbridgebot|Reports Tower Bridge openings and closings
-@matrixbot
-@fortunebot
-@EnutBot
-@pnutPrinter
-@pnutstats
+[@towerbridgebot](https://pnut.io/@towerbridgebot)|Reports Tower Bridge openings and closings
+[@matrixbot](https://pnut.io/@matrixbot)|
+[@fortunebot](https://pnut.io/@fortunebot)|
+[@EnutBot](https://pnut.io/@enutbot)|
+[@pnutPrinter](https://pnut.io/@pnutprinter)|
+[@pnutstats](https://pnut.io/@pnutstats)|
