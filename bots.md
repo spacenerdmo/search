@@ -8,5 +8,5 @@ Username|Description
 [@matrixbot](https://pnut.io/@matrixbot)|
 [@fortunebot](https://pnut.io/@fortunebot)|
 [@EnutBot](https://pnut.io/@enutbot)|
-[@pnutPrinter](https://pnut.io/@pnutprinter)|
-[@pnutstats](https://pnut.io/@pnutstats)|
+[@pnutPrinter](https://pnut.io/@pnutprinter)|Reposts and *prints* posts tagged "#pnutprinter"
+[@pnutstats](https://pnut.io/@pnutstats)|Posts daily statistics
