@@ -13,3 +13,4 @@ Name | Description | Owner | Type
 [Happy π-day](https://patter.chat/room.html?channel=288) | | [@blumenkraft](https://pnut.io/@blumenkraft) | Public
 [Craft Beer](https://patter.chat/room.html?channel=491) | | [@jacobrealo](https://pnut.io/@jacobrealo) | Public
 [Global News](https://patter.chat/room.html?channel=497) | | [@unixb0y](https://pnut.io/@unixb0y) | Public
+[mobile phone junkies](https://patter.chat/room.html?channel=508) | discuss the latest news in the mobile industry | [@thrrgilag](https://pnut.io/@thrrgilag) | Public
