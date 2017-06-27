@@ -14,3 +14,4 @@ Name | Description | Owner | Type
 [Craft Beer](https://patter.chat/room.html?channel=491) | | [@jacobrealo](https://pnut.io/@jacobrealo) | Public
 [Global News](https://patter.chat/room.html?channel=497) | | [@unixb0y](https://pnut.io/@unixb0y) | Public
 [mobile phone junkies](https://patter.chat/room.html?channel=508) | discuss the latest news in the mobile industry | [@thrrgilag](https://pnut.io/@thrrgilag) | Public
+[Patter Support](https://patter.chat/room.html?channel=585) | | [@33MHz](https://pnut.io/@33MHz) | Public
