@@ -17,4 +17,5 @@ Name | Description | Owner | Type
 [Patter Support](https://patter.chat/room.html?channel=585) | Generel support for the Patter site | [@33MHz](https://pnut.io/@33MHz) | Public
 [Movie Club](https://patter.chat/room.html?channel=591) | Dish out your recent movie dealings, reviews, critiques, and theories! | [@33MHz](https://pnut.io/@33MHz) | Public
 [Dance Party in Exile](https://patter.chat/room.html?channel=600) | Is it Monday yet? bridged with [Telegram](https://t.me/joinchat/Av2-00KF6hv7AeVZ-Ucerg) and [matrix](https://matrix.to/#/#dpie:monkeystew.net) | [@thrrgilag](https://pnut.io/@thrrgilag) | Public
+[The Electronic Jukebox](https://patter.chat/room.html?channel=622) | Put another dime in the jukebox baby. bridged with [Telegram](https://t.me/joinchat/Av2-00MnVc-UTCtUtILCBw) and [matrix](https://matrix.to/#/#jukebox:monkeystew.net) | Public
 
